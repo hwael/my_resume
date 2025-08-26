@@ -208,10 +208,10 @@ certificate:
   items:
     - name: Cisco Certified Network Associate (CCNA)
       issuer: Cisco
-      date: [Year]
+      date: 2012
     - name: Cisco Certified Network Professional (CCNP)
       issuer: Cisco
-      date: [Year]
+      date: 2012
     - name: Computational Foundations Workshop
       issuer: University of Michigan
       date: 2023
@@ -256,39 +256,39 @@ publication:
     items:
      - title: Cloning, sequencing and bioinformatics analysis of l-asparaginase I (ansA gene) from marine isolated Bacillus zhangzhouensis B29
         event: Advances in Genomics & Gene Technology international conference
-        date: "25 February 2021"
-        location: "Pondicherry University"
+        date: 25 February 2021
+        location: Pondicherry University
       - title: Isolation and molecular characterization of l-asparaginase-producing bacteria from coastal area of Kerala
-        event: "1st International E-conference on Microbiology: Covid 19 & Current Issues"
-        date: "31 January 2021"
-        location: "Primeasia University"
+        event: 1st International E-conference on Microbiology: Covid 19 & Current Issues
+        date: 31 January 2021
+        location: Primeasia University
       - title: Isolation of l-asparaginase-producing fungi from marine water
-        event: "CONIAPS-XXVI"
-        date: "18-20 December 2020"
+        event: CONIAPS-XXVI
+        date: 18-20 December 2020
         location: Department of Molecular and Cellular Engineering, Jacob Institute of Biotechnology and Bioengineering, Sam Higginbottom University of Agriculture, Technology and Sciences
       - title: In Silico-based drug design screening of Garcinia mangostana secondary metabolites against Coronavirus protein 6W63
-        event: "BIOINFORMATICA INDICA 2022"
-        date: "6-8 January 2022"
-        location: "Department of Bioinformatics, University of Kerala"
+        event: BIOINFORMATICA INDICA 2022
+        date: 6-8 January 2022
+        location: Department of Bioinformatics, University of Kerala
 
   - category: "Oral Presentations"
     items:
       - title: l-asparaginase II identification from NGS data of Bacillus australimaris B28A: In Silico
-        event: "2nd Annual Primeasia University International E-conference on Aspects of Microbiology in Healthcare Sectors"
-        date: "30 January 2022"
-        location: "Department of Microbiology, Primeasia University"
-      - title: "Whole Genome Sequence of the marine bacterium Pseudomonas fluorescens B29B with insight to Asparaginase genes"
-        event: "BIOINFORMATICA INDICA 2022"
-        date: "6-8 January 2022"
-        location: "Department of Bioinformatics, University of Kerala"
-      - title: "In silico ansA Gene Expression Analysis of Pseudomonas fluorescence B29B"
-        event: "National webinar on advances in industrial biotechnology"
-        date: "3-4 February 2022"
-        location: "Department of Biotechnology, University of Kerala"
-      - title: "New Isolated Marine L-asparaginase Producing Microorganisms"
-        event: "International Webinar on Advances in Genomics & Gene Technology, IUCGGT"
-        date: "24-26 March 2021"
-        location: "University of Kerala"
+        event: 2nd Annual Primeasia University International E-conference on Aspects of Microbiology in Healthcare Sectors
+        date: 30 January 2022
+        location: Department of Microbiology, Primeasia University
+      - title: Whole Genome Sequence of the marine bacterium Pseudomonas fluorescens B29B with insight to Asparaginase genes
+        event: BIOINFORMATICA INDICA 2022
+        date: 6-8 January 2022
+        location: Department of Bioinformatics, University of Kerala
+      - title: In silico ansA Gene Expression Analysis of Pseudomonas fluorescence B29B
+        event: National webinar on advances in industrial biotechnology
+        date: 3-4 February 2022
+        location: Department of Biotechnology, University of Kerala
+      - title: New Isolated Marine L-asparaginase Producing Microorganisms
+        event: International Webinar on Advances in Genomics & Gene Technology, IUCGGT
+        date: 24-26 March 2021
+        location: University of Kerala
 award:
   show: true
   order: 8
