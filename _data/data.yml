@@ -34,7 +34,7 @@ experience:
   items:
 
   items:
-    - company: Al-Razi University
+  - company: Al-Razi University
       link: 'https://www.alraziuni.edu.ye'
       tags: Part-time, Hybrid
       date: 2024.10 - Current
@@ -50,7 +50,7 @@ experience:
        + Conducting research related to biotechnology and molecular biology
         + Doing seminars and workshop related to bioinformatics
 
-    - company: Saba University
+  - company: Saba University
       #link:
       tags: Part-time,
       date: 2025.07 - 2025.09
