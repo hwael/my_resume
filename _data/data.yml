@@ -32,9 +32,7 @@ experience:
   order: 2
   title: Experiences
   items:
-
-  items:
-  - company: Al-Razi University
+   - company: Al-Razi University
       link: 'https://www.alraziuni.edu.ye'
       tags: Part-time, Hybrid
       date: 2024.10 - Current
@@ -47,7 +45,7 @@ experience:
           focusing on biotechnology applications.
         + Supervising undergraduate projects in theoretical and computational biotechnology.
         + Using protein modeling, docking studies, and microbial metabolite analysis.
-       + Conducting research related to biotechnology and molecular biology
+        + Conducting research related to biotechnology and molecular biology
         + Doing seminars and workshop related to bioinformatics
 
   - company: Saba University
@@ -97,16 +95,13 @@ experience:
         + Delivered 15+ years of professional IT support in networking, system administration, and hardware/software troubleshooting.
         + Certified CCNA and CCNP; managed enterprise-level networking infrastructure.
         + Provided technical training and mentoring for junior engineers.
-
-
-
 project:
   show: true
   order: 3
   title: Projects
   items:
     - name: Protein Engineering & Docking Studies
-      link: '#'
+      #link: '#'
       tags: Research
       date: 2019 - 2025
       description: |
@@ -115,7 +110,7 @@ project:
         + Developed molecular models contributing to biotechnology applications.
 
     - name: Bioinformatics Applications in Biotechnology
-      link: '#'
+     # link: '#'
       tags: Academic
       date: 2017 - 2024
       description: |
@@ -189,8 +184,6 @@ education:
       degree: Postgraduate Diploma | Pre-Master 
       description: |
         Core training in zoology with advanced studies in molecular and cellular biology.
-
-     
     - institution: Sana’a University, Yemen
       date: 2004–2008
       major: Biology | Zoology
