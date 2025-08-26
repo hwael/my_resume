@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Dr. Wael Hadi
-  title: Biotechnologist | Molecular Biologist
+  title: Biotechnologist | Molecular Biologist 
   avatar:
     show: true
     path: /assets/images/wael.jpg
@@ -15,9 +15,9 @@ contact:
   phone: +967-716612553
   website: hwael.github.io/my_resume
   linkedin: hwael
-  github: hwael
+  #github: hwael
   researchgate: Wael_Hadi
-  orcid: 0000-0002-XXXX-XXXX   # (replace with your ORCID if you have)
+  orcid: 0000-0002-2667-8317    # (replace with your ORCID if you have)
   googlescholar: Hadi_Wael    # (replace with your Google Scholar ID if available)
 
 profile:
@@ -32,28 +32,73 @@ experience:
   order: 2
   title: Experiences
   items:
-    - company: University of Kerala, India
-      link: https://www.keralauniversity.ac.in
-      tags: Full-time, Research
-      date: 2019.07 - 2025.01
-      role: Doctoral Researcher (Biotechnology)
-      location: Kerala, India
+
+  items:
+    - company: Al-Razi University
+      link: 'https://www.alraziuni.edu.ye'
+      tags: Part-time, Hybrid
+      date: 2024.10 - Current
+      role: Research affliated
+      location: Sana'a
+      description: |
+        + Conducting research related to biotechnology and molecular biology
+        + Teaching medical undergraduates
+        + Conducting dry lab research in bioinformatics and computational biology,
+          focusing on biotechnology applications.
+        + Supervising undergraduate projects in theoretical and computational biotechnology.
+        + Using protein modeling, docking studies, and microbial metabolite analysis.
+       + Conducting research related to biotechnology and molecular biology
+        + Doing seminars and workshop related to bioinformatics
+
+    - company: Saba University
+      #link:
+      tags: Part-time,
+      date: 2025.07 - 2025.09
+      role: Educator
+      location: Sana'a, Yemen
+      description: |
+        + Teaching biostatistics and research methodology course for 3rd year of laboratory and pharmaceutical undergraduates.
+    - company: ACAPRS
+      link: 'https://www.acaprs.net'
+      tags: Part-time, Remote
+      date: 2024.10 - Current
+      role: Reviewwer
+      location: Sana'a, Yemen
+      description: |
+        + Negociating and making the policies of the journal publication
+        + Establishing the regulation of the journal and conducting the meetings relate
+        + Reviewing the biology and biotechnology related articles, perform Peer-review.
+   
+    - company: Kerala University
+      link: 'https://www.keralauniversity.ac.in'
+      tags: Full-time
+      date: 2018 - 2024
+      role: Research affliated
+      location: Thiruvananthapuram, India
       description: |
         + Conducted doctoral research in protein engineering, molecular cloning, and protein synthesis.
         + Applied bioinformatics and docking tools to identify novel protein functions and applications.
         + Published and presented findings at academic conferences.
         + Collaborated with cross-disciplinary teams for experimental and computational projects.
-
-    - company: Technical IT & Networking Sector
-      link: '#'
-      tags: Full-time
-      date: 2005 - 2020
-      role: Senior IT & Network Specialist
-      location: Yemen
+    - company: National Oncology Center, Sana’a, Yemen
+      role: Lab Assistant | Intrenship
+      date: Mar 2014 – Jun 2014
+      location: Sana'a, Yemen
       description: |
+        + Trained in molecular genetics (RT-PCR diagnosis) and (Biopsy) histology.
+        + Assisted in sample processing and laboratory maintenance.
+    - company: Freelance, Sana’a, Yemen
+      role: IT Technician
+      date: Feb 2011 – Sep 2015
+      location: Sana'a, Yemen
+      description: |
+        + Maintained and repaired computers (software & hardware).
+        + Provided support for Windows and Linux systems.
         + Delivered 15+ years of professional IT support in networking, system administration, and hardware/software troubleshooting.
         + Certified CCNA and CCNP; managed enterprise-level networking infrastructure.
         + Provided technical training and mentoring for junior engineers.
+
+
 
 project:
   show: true
@@ -123,7 +168,7 @@ education:
   items:
     - institution: University of Kerala, India
       link: https://www.keralauniversity.ac.in
-      date: 2019 - 2025
+      date: 2018 - 2024
       major: Biotechnology
       degree: Ph.D.
       description: |
@@ -136,14 +181,25 @@ education:
       degree: Master of Science
       description: |
         Specialized in molecular biology and bioprospecting applications.
-
-    - institution: [Institution, Yemen]
-      link: '#'
-      date: [Year]
-      major: Zoology
-      degree: Bachelor of Science + Post Diploma
+      
+    - institution: Sana’a University, Yemen
+      #link: 'https://www.keralauniversity.ac.in'
+      date: 2014–2015
+      major: Advanced Zoology
+      degree: Postgraduate Diploma | Pre-Master 
       description: |
         Core training in zoology with advanced studies in molecular and cellular biology.
+
+     
+    - institution: Sana’a University, Yemen
+      date: 2004–2008
+      major: Biology | Zoology
+      degree: Bachelor
+      
+    - institution: National Institute of Higher Medical Sciences, Yemen
+      date: 2002–2004
+      major: Pharmacy
+      degree: Diploma
 
 certificate:
   show: true
@@ -156,27 +212,98 @@ certificate:
     - name: Cisco Certified Network Professional (CCNP)
       issuer: Cisco
       date: [Year]
-
+    - name: Computational Foundations Workshop
+      issuer: University of Michigan
+      date: 2023
+      #link:
+      #description: |
+      #  It's my Example Certificate Two by Example.
+    - name: Basic Cell Culture Techniques
+      issuer: Sathyabama Institute of Science and Technology
+      date: 2023
+    - name: Monoclonal Antibodies Workshop
+      issuer: Institute of Advanced Virology
+      date: 2022
+    - name: National Workshop on DNA Sequencing
+      issuer: University of Kerala
+      date: 2019
+    - name: In Silico Docking Workshop
+      issuer: CEPCI Laboratory, Kollam
+      date: 2019
 publication:
   show: true
   order: 7
   title: Publications
+- category: "Publication articles"
   items:
-    - title: [Insert your PhD/MSc publications here]
+    - title: Isolation and Identification of Marine Bacillus altitudinis KB1: Asparaginase Producer
+      conference: Journal of Marine Biological Association of India
       authors: Wael Hadi, et al.
-      conference: [Journal/Conference Name, Year]
-      link: '#'
+      year: 2021
+      link:
+    - title: Whole Genome Sequence Data of Bacillus australimaris Strain B28A
+      conference: Data in Brief
+      authors: Wael Hadi, et al.
+      year: 2021
+      link:
+    - title: Unlocking the Potential of Marine Asparaginase Sources
+      conference: "Thalassas: An International Journal of Marine Sciences"
+      authors: Wael Hadi, et al.
+      year: 2023
+      link:
 
+  - category: "Poster Presentations"
+    items:
+     - title: Cloning, sequencing and bioinformatics analysis of l-asparaginase I (ansA gene) from marine isolated Bacillus zhangzhouensis B29
+        event: Advances in Genomics & Gene Technology international conference
+        date: "25 February 2021"
+        location: "Pondicherry University"
+      - title: Isolation and molecular characterization of l-asparaginase-producing bacteria from coastal area of Kerala
+        event: "1st International E-conference on Microbiology: Covid 19 & Current Issues"
+        date: "31 January 2021"
+        location: "Primeasia University"
+      - title: Isolation of l-asparaginase-producing fungi from marine water
+        event: "CONIAPS-XXVI"
+        date: "18-20 December 2020"
+        location: Department of Molecular and Cellular Engineering, Jacob Institute of Biotechnology and Bioengineering, Sam Higginbottom University of Agriculture, Technology and Sciences
+      - title: In Silico-based drug design screening of Garcinia mangostana secondary metabolites against Coronavirus protein 6W63
+        event: "BIOINFORMATICA INDICA 2022"
+        date: "6-8 January 2022"
+        location: "Department of Bioinformatics, University of Kerala"
+
+  - category: "Oral Presentations"
+    items:
+      - title: l-asparaginase II identification from NGS data of Bacillus australimaris B28A: In Silico
+        event: "2nd Annual Primeasia University International E-conference on Aspects of Microbiology in Healthcare Sectors"
+        date: "30 January 2022"
+        location: "Department of Microbiology, Primeasia University"
+      - title: "Whole Genome Sequence of the marine bacterium Pseudomonas fluorescens B29B with insight to Asparaginase genes"
+        event: "BIOINFORMATICA INDICA 2022"
+        date: "6-8 January 2022"
+        location: "Department of Bioinformatics, University of Kerala"
+      - title: "In silico ansA Gene Expression Analysis of Pseudomonas fluorescence B29B"
+        event: "National webinar on advances in industrial biotechnology"
+        date: "3-4 February 2022"
+        location: "Department of Biotechnology, University of Kerala"
+      - title: "New Isolated Marine L-asparaginase Producing Microorganisms"
+        event: "International Webinar on Advances in Genomics & Gene Technology, IUCGGT"
+        date: "24-26 March 2021"
+        location: "University of Kerala"
 award:
   show: true
   order: 8
   title: Awards
   items:
     - name: Ph.D. Fellowship Award
-      awarder: University of Kerala
-      date: 2019 - 2025
+      awarder: Indian Council for culture relations | India
+      date: 2018 - 2024
       description: |
         Supported doctoral research in Biotechnology.
+    - name: M.SC.. Fellowship Award
+      awarder: Indian Council for culture relations | India
+      date: 2015 - 2017
+      description: |
+        Supported master research in Biotechnology.
 
 language:
   show: true
