@@ -3,16 +3,16 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Wael Hadi                     # name
+  title: Biotechnologist           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Sana'a, Yemen  # location, text or markdown link syntax
+  email: waelye@gmail.com     # email address
+  phone: +967-716612553  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
@@ -104,9 +104,9 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
+Biotechnologist with a Ph.D. in Biotechnology (University of Kerala, India) and 10+ years of interdisciplinary research experience in molecular biology, protein engineering, bioinformatics, and bioprospecting. Skilled in experimental design, protein synthesis, molecular cloning, and computational docking tools. Strong background in bioinformatics using R and Python with professional LaTeX expertise. Also holds 15+ years of technical IT experience including CCNA and CCNP certifications. 
 
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+Demonstrates leadership in research, interdisciplinary project management, and scientific communication.
 
 experience:
   show: true
@@ -114,8 +114,19 @@ experience:
   title: Experiences
   description: |
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
+   items: 
+    - company: University of Kerala, India
+      link: https://www.keralauniversity.ac.in
+      tags: Full-time, Research
+      date: 2019.07 - 2025.01
+      role: Doctoral Researcher (Biotechnology)
+      location: Kerala, India
+      description: |
+        + Conducted doctoral research in protein engineering, molecular cloning, and protein synthesis.
+        + Applied bioinformatics and docking tools to identify novel protein functions and applications.
+        + Published and presented findings at academic conferences.
+        + Collaborated with cross-disciplinary teams for experimental and computational projects.
 
-  items:
     - company: Second Company
       link: '#'
       tags: Full-time
@@ -402,7 +413,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false # Change to true if needed 
   order: 14
   title: References
   description: |
